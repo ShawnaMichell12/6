@@ -157,8 +157,4 @@ Heavily inspired by the works of [matthew-andrews](https://github.com/matthew-an
 cross-fetch is licensed under the [MIT license](https://github.com/lquixada/cross-fetch/blob/main/LICENSE) © [Leonardo Quixadá](https://twitter.com/lquixada/)
 
 
-## Author
 
-|[![@lquixada](https://avatars0.githubusercontent.com/u/195494?v=4&s=96)](https://github.com/lquixada)|
-|:---:|
-|[@lquixada](http://www.github.com/lquixada)|
